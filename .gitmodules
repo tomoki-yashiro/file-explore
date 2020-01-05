@@ -1,0 +1,3 @@
+[submodule "folder-mode"]
+	path = folder-mode
+	url = https://github.com/tomoki-yashiro/folder-mode
